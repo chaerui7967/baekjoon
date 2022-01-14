@@ -1,3 +1,12 @@
+## 2022/01/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [10988](https://www.acmicpc.net/problem/10988) | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9081](https://www.acmicpc.net/problem/9081) | [단어 맞추기](https://www.acmicpc.net/problem/9081) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12865](https://www.acmicpc.net/problem/12865) | [평범한 배낭](https://www.acmicpc.net/problem/12865) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15823](https://www.acmicpc.net/problem/15823) | [카드 팩 구매하기](https://www.acmicpc.net/problem/15823) |
+
 ## 2022/01/14 
 
 | 난이도 | 번호 | 문제 이름 |
