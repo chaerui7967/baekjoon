@@ -1,3 +1,12 @@
+## 2022/01/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4836](https://www.acmicpc.net/problem/4836) | [춤](https://www.acmicpc.net/problem/4836) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8980](https://www.acmicpc.net/problem/8980) | [택배](https://www.acmicpc.net/problem/8980) |
+
 ## 2022/01/29 
 
 | 난이도 | 번호 | 문제 이름 |
