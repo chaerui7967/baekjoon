@@ -1,3 +1,12 @@
+## 2022/02/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14575](https://www.acmicpc.net/problem/14575) | [뒤풀이](https://www.acmicpc.net/problem/14575) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3687](https://www.acmicpc.net/problem/3687) | [성냥개비](https://www.acmicpc.net/problem/3687) |
+
 ## 2022/02/15 
 
 | 난이도 | 번호 | 문제 이름 |
