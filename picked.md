@@ -1,3 +1,12 @@
+## 2022/02/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10164](https://www.acmicpc.net/problem/10164) | [격자상의 경로](https://www.acmicpc.net/problem/10164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21278](https://www.acmicpc.net/problem/21278) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+
 ## 2022/02/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -363,7 +372,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10808](https://www.acmicpc.net/problem/10808) | [알파벳 개수](https://www.acmicpc.net/problem/10808) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13549](https://www.acmicpc.net/problem/13549) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17136](https://www.acmicpc.net/problem/17136) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |
 
@@ -696,7 +705,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
 
@@ -2145,7 +2154,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6236](https://www.acmicpc.net/problem/6236) | [용돈 관리](https://www.acmicpc.net/problem/6236) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5567](https://www.acmicpc.net/problem/5567) | [결혼식](https://www.acmicpc.net/problem/5567) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
 
