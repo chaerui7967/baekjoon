@@ -1,3 +1,12 @@
+## 2022/02/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10597](https://www.acmicpc.net/problem/10597) | [순열장난](https://www.acmicpc.net/problem/10597) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
+
 ## 2022/02/17 
 
 | 난이도 | 번호 | 문제 이름 |
