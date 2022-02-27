@@ -1,3 +1,12 @@
+## 2022/02/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1259](https://www.acmicpc.net/problem/1259) | [팰린드롬수](https://www.acmicpc.net/problem/1259) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2302](https://www.acmicpc.net/problem/2302) | [극장 좌석](https://www.acmicpc.net/problem/2302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13302](https://www.acmicpc.net/problem/13302) | [리조트](https://www.acmicpc.net/problem/13302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [4933](https://www.acmicpc.net/problem/4933) | [뉴턴의 사과](https://www.acmicpc.net/problem/4933) |
+
 ## 2022/02/27 
 
 | 난이도 | 번호 | 문제 이름 |
