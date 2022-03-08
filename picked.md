@@ -1,3 +1,12 @@
+## 2022/03/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1251](https://www.acmicpc.net/problem/1251) | [단어 나누기](https://www.acmicpc.net/problem/1251) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11724](https://www.acmicpc.net/problem/11724) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9019](https://www.acmicpc.net/problem/9019) | [DSLR](https://www.acmicpc.net/problem/9019) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2623](https://www.acmicpc.net/problem/2623) | [음악프로그램](https://www.acmicpc.net/problem/2623) |
+
 ## 2022/03/08 
 
 | 난이도 | 번호 | 문제 이름 |
