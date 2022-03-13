@@ -1,3 +1,12 @@
+## 2022/03/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1439](https://www.acmicpc.net/problem/1439) | [뒤집기](https://www.acmicpc.net/problem/1439) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15900](https://www.acmicpc.net/problem/15900) | [나무 탈출](https://www.acmicpc.net/problem/15900) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11049](https://www.acmicpc.net/problem/11049) | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |
+
 ## 2022/03/13 
 
 | 난이도 | 번호 | 문제 이름 |
