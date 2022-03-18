@@ -1,3 +1,12 @@
+## 2022/03/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3980](https://www.acmicpc.net/problem/3980) | [선발 명단](https://www.acmicpc.net/problem/3980) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [22946](https://www.acmicpc.net/problem/22946) | [원 이동하기 1](https://www.acmicpc.net/problem/22946) |
+
 ## 2022/03/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -76,7 +85,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [16171](https://www.acmicpc.net/problem/16171) | [나는 친구가 적다 (Small)](https://www.acmicpc.net/problem/16171) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11725](https://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [22945](https://www.acmicpc.net/problem/22945) | [팀 빌딩](https://www.acmicpc.net/problem/22945) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22945](https://www.acmicpc.net/problem/22945) | [팀 빌딩](https://www.acmicpc.net/problem/22945) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12764](https://www.acmicpc.net/problem/12764) | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) |
 
 ## 2022/03/09 
