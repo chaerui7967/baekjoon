@@ -1,3 +1,12 @@
+## 2022/03/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17073](https://www.acmicpc.net/problem/17073) | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10653](https://www.acmicpc.net/problem/10653) | [마라톤 2](https://www.acmicpc.net/problem/10653) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](https://www.acmicpc.net/problem/17472) |
+
 ## 2022/03/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -309,7 +318,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
 
@@ -1875,7 +1884,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
 
@@ -2264,7 +2273,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13422](https://www.acmicpc.net/problem/13422) | [도둑](https://www.acmicpc.net/problem/13422) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](https://www.acmicpc.net/problem/17472) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17472](https://www.acmicpc.net/problem/17472) | [다리 만들기 2](https://www.acmicpc.net/problem/17472) |
 
 ## 2021/07/10 
 
