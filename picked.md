@@ -1,3 +1,12 @@
+## 2022/03/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2635](https://www.acmicpc.net/problem/2635) | [수 이어가기](https://www.acmicpc.net/problem/2635) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18290](https://www.acmicpc.net/problem/18290) | [NM과 K (1)](https://www.acmicpc.net/problem/18290) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22943](https://www.acmicpc.net/problem/22943) | [수](https://www.acmicpc.net/problem/22943) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20543](https://www.acmicpc.net/problem/20543) | [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
+
 ## 2022/03/28 
 
 | 난이도 | 번호 | 문제 이름 |
