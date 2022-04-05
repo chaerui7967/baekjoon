@@ -1,3 +1,12 @@
+## 2022/04/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1780](https://www.acmicpc.net/problem/1780) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13397](https://www.acmicpc.net/problem/13397) | [구간 나누기 2](https://www.acmicpc.net/problem/13397) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2637](https://www.acmicpc.net/problem/2637) | [장난감 조립](https://www.acmicpc.net/problem/2637) |
+
 ## 2022/04/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -284,7 +293,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1059](https://www.acmicpc.net/problem/1059) | [좋은 구간](https://www.acmicpc.net/problem/1059) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13398](https://www.acmicpc.net/problem/13398) | [연속합 2](https://www.acmicpc.net/problem/13398) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
 
 ## 2022/03/04 
 
