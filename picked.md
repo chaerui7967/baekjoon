@@ -1,3 +1,12 @@
+## 2022/04/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15650](https://www.acmicpc.net/problem/15650) | [N과 M (2)](https://www.acmicpc.net/problem/15650) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7576](https://www.acmicpc.net/problem/7576) | [토마토](https://www.acmicpc.net/problem/7576) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20165](https://www.acmicpc.net/problem/20165) | [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20542](https://www.acmicpc.net/problem/20542) | [받아쓰기](https://www.acmicpc.net/problem/20542) |
+
 ## 2022/04/28 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1039,7 +1048,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [20154](https://www.acmicpc.net/problem/20154) | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20327](https://www.acmicpc.net/problem/20327) | [배열 돌리기 6](https://www.acmicpc.net/problem/20327) |
 
 ## 2022/01/02 
@@ -2002,7 +2011,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9375](https://www.acmicpc.net/problem/9375) | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1931](https://www.acmicpc.net/problem/1931) | [회의실 배정](https://www.acmicpc.net/problem/1931) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1937](https://www.acmicpc.net/problem/1937) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
 
 ## 2021/09/17 
@@ -2111,7 +2120,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14916](https://www.acmicpc.net/problem/14916) | [거스름돈](https://www.acmicpc.net/problem/14916) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16973](https://www.acmicpc.net/problem/16973) | [직사각형 탈출](https://www.acmicpc.net/problem/16973) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2412](https://www.acmicpc.net/problem/2412) | [암벽 등반](https://www.acmicpc.net/problem/2412) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2412](https://www.acmicpc.net/problem/2412) | [암벽 등반](https://www.acmicpc.net/problem/2412) |
 
 ## 2021/09/05 
 
