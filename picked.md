@@ -1,3 +1,12 @@
+## 2022/05/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [4779](https://www.acmicpc.net/problem/4779) | [칸토어 집합](https://www.acmicpc.net/problem/4779) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15991](https://www.acmicpc.net/problem/15991) | [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
+
 ## 2022/05/07 
 
 | 난이도 | 번호 | 문제 이름 |
