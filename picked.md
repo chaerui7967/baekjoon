@@ -1,3 +1,12 @@
+## 2022/06/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1167](https://www.acmicpc.net/problem/1167) | [트리의 지름](https://www.acmicpc.net/problem/1167) |
+
 ## 2022/06/07 
 
 | 난이도 | 번호 | 문제 이름 |
