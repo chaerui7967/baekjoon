@@ -1,3 +1,12 @@
+## 2022/06/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [14594](https://www.acmicpc.net/problem/14594) | [동방 프로젝트 (Small)](https://www.acmicpc.net/problem/14594) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2156](https://www.acmicpc.net/problem/2156) | [포도주 시식](https://www.acmicpc.net/problem/2156) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1493](https://www.acmicpc.net/problem/1493) | [박스 채우기](https://www.acmicpc.net/problem/1493) |
+
 ## 2022/06/15 
 
 | 난이도 | 번호 | 문제 이름 |
