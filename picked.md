@@ -1,3 +1,12 @@
+## 2022/06/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1166](https://www.acmicpc.net/problem/1166) | [선물](https://www.acmicpc.net/problem/1166) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1254](https://www.acmicpc.net/problem/1254) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1697](https://www.acmicpc.net/problem/1697) | [숨바꼭질](https://www.acmicpc.net/problem/1697) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2661](https://www.acmicpc.net/problem/2661) | [좋은수열](https://www.acmicpc.net/problem/2661) |
+
 ## 2022/06/26 
 
 | 난이도 | 번호 | 문제 이름 |
