@@ -1,3 +1,12 @@
+## 2022/07/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2512](https://www.acmicpc.net/problem/2512) | [예산](https://www.acmicpc.net/problem/2512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21919](https://www.acmicpc.net/problem/21919) | [소수 최소 공배수](https://www.acmicpc.net/problem/21919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2253](https://www.acmicpc.net/problem/2253) | [점프](https://www.acmicpc.net/problem/2253) |
+
 ## 2022/07/04 
 
 | 난이도 | 번호 | 문제 이름 |
