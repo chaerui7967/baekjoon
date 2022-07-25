@@ -1,3 +1,12 @@
+## 2022/07/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2493](https://www.acmicpc.net/problem/2493) | [탑](https://www.acmicpc.net/problem/2493) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1197](https://www.acmicpc.net/problem/1197) | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |
+
 ## 2022/07/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -230,7 +239,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1269](https://www.acmicpc.net/problem/1269) | [대칭 차집합](https://www.acmicpc.net/problem/1269) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1495](https://www.acmicpc.net/problem/1495) | [기타리스트](https://www.acmicpc.net/problem/1495) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2631](https://www.acmicpc.net/problem/2631) | [줄세우기](https://www.acmicpc.net/problem/2631) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2234](https://www.acmicpc.net/problem/2234) | [성곽](https://www.acmicpc.net/problem/2234) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2234](https://www.acmicpc.net/problem/2234) | [성곽](https://www.acmicpc.net/problem/2234) |
 
 ## 2022/06/29 
 
@@ -2561,7 +2570,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19948](https://www.acmicpc.net/problem/19948) | [음유시인 영재](https://www.acmicpc.net/problem/19948) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20164](https://www.acmicpc.net/problem/20164) | [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2234](https://www.acmicpc.net/problem/2234) | [성곽](https://www.acmicpc.net/problem/2234) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2234](https://www.acmicpc.net/problem/2234) | [성곽](https://www.acmicpc.net/problem/2234) |
 
 ## 2021/10/13 
 
