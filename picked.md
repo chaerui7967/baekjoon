@@ -1,3 +1,12 @@
+## 2022/08/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [9079](https://www.acmicpc.net/problem/9079) | [동전 게임](https://www.acmicpc.net/problem/9079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14225](https://www.acmicpc.net/problem/14225) | [부분수열의 합](https://www.acmicpc.net/problem/14225) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2211](https://www.acmicpc.net/problem/2211) | [네트워크 복구](https://www.acmicpc.net/problem/2211) |
+
 ## 2022/08/13 
 
 | 난이도 | 번호 | 문제 이름 |
