@@ -1,3 +1,12 @@
+## 2022/08/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20944](https://www.acmicpc.net/problem/20944) | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14863](https://www.acmicpc.net/problem/14863) | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [21611](https://www.acmicpc.net/problem/21611) | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) |
+
 ## 2022/08/29 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -551,7 +560,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1389](https://www.acmicpc.net/problem/1389) | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1527](https://www.acmicpc.net/problem/1527) | [금민수의 개수](https://www.acmicpc.net/problem/1527) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1600](https://www.acmicpc.net/problem/1600) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |
@@ -2981,7 +2990,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1541](https://www.acmicpc.net/problem/1541) | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2922](https://www.acmicpc.net/problem/2922) | [즐거운 단어](https://www.acmicpc.net/problem/2922) |
