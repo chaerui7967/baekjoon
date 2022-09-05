@@ -1,3 +1,12 @@
+## 2022/09/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [9933](https://www.acmicpc.net/problem/9933) | [민균이의 비밀번호](https://www.acmicpc.net/problem/9933) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21278](https://www.acmicpc.net/problem/21278) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8983](https://www.acmicpc.net/problem/8983) | [사냥꾼](https://www.acmicpc.net/problem/8983) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16437](https://www.acmicpc.net/problem/16437) | [양 구출 작전](https://www.acmicpc.net/problem/16437) |
+
 ## 2022/09/05 
 
 | 난이도 | 번호 | 문제 이름 |
