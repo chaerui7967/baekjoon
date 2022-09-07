@@ -1,3 +1,12 @@
+## 2022/09/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16935](https://www.acmicpc.net/problem/16935) | [배열 돌리기 3](https://www.acmicpc.net/problem/16935) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15961](https://www.acmicpc.net/problem/15961) | [회전 초밥](https://www.acmicpc.net/problem/15961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [10423](https://www.acmicpc.net/problem/10423) | [전기가 부족해](https://www.acmicpc.net/problem/10423) |
+
 ## 2022/09/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1220,7 +1229,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3343](https://www.acmicpc.net/problem/3343) | [장미](https://www.acmicpc.net/problem/3343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21944](https://www.acmicpc.net/problem/21944) | [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [21944](https://www.acmicpc.net/problem/21944) | [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) |
 
 ## 2022/04/24 
 
@@ -1686,7 +1695,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
 
@@ -2226,7 +2235,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [20154](https://www.acmicpc.net/problem/20154) | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20327](https://www.acmicpc.net/problem/20327) | [배열 돌리기 6](https://www.acmicpc.net/problem/20327) |
 
@@ -2822,7 +2831,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1695](https://www.acmicpc.net/problem/1695) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1707](https://www.acmicpc.net/problem/1707) | [이분 그래프](https://www.acmicpc.net/problem/1707) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
 
 ## 2021/10/28 
 
@@ -3909,7 +3918,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [18258](https://www.acmicpc.net/problem/18258) | [큐 2](https://www.acmicpc.net/problem/18258) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5904](https://www.acmicpc.net/problem/5904) | [Moo 게임](https://www.acmicpc.net/problem/5904) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19566](https://www.acmicpc.net/problem/19566) | [수열의 구간 평균](https://www.acmicpc.net/problem/19566) |
 
