@@ -1,3 +1,12 @@
+## 2022/09/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [22864](https://www.acmicpc.net/problem/22864) | [피로도](https://www.acmicpc.net/problem/22864) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1863](https://www.acmicpc.net/problem/1863) | [스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [18809](https://www.acmicpc.net/problem/18809) | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |
+
 ## 2022/09/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1685,7 +1694,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11123](https://www.acmicpc.net/problem/11123) | [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22869](https://www.acmicpc.net/problem/22869) | [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [22861](https://www.acmicpc.net/problem/22861) | [폴더 정리 (large)](https://www.acmicpc.net/problem/22861) |
@@ -3611,7 +3620,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [6068](https://www.acmicpc.net/problem/6068) | [시간 관리하기](https://www.acmicpc.net/problem/6068) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](https://www.acmicpc.net/problem/16637) |
