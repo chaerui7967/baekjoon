@@ -1,3 +1,12 @@
+## 2022/09/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1802](https://www.acmicpc.net/problem/1802) | [종이 접기](https://www.acmicpc.net/problem/1802) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20040](https://www.acmicpc.net/problem/20040) | [사이클 게임](https://www.acmicpc.net/problem/20040) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17616](https://www.acmicpc.net/problem/17616) | [등수 찾기](https://www.acmicpc.net/problem/17616) |
+
 ## 2022/09/27 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1047,7 +1056,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
 
@@ -3946,7 +3955,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4446](https://www.acmicpc.net/problem/4446) | [ROT13](https://www.acmicpc.net/problem/4446) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11437](https://www.acmicpc.net/problem/11437) | [LCA](https://www.acmicpc.net/problem/11437) |
 
 ## 2021/07/15 
