@@ -1,3 +1,12 @@
+## 2022/10/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17521](https://www.acmicpc.net/problem/17521) | [Byte Coin](https://www.acmicpc.net/problem/17521) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15663](https://www.acmicpc.net/problem/15663) | [N과 M (9)](https://www.acmicpc.net/problem/15663) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13397](https://www.acmicpc.net/problem/13397) | [구간 나누기 2](https://www.acmicpc.net/problem/13397) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
+
 ## 2022/10/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1425,7 +1434,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2217](https://www.acmicpc.net/problem/2217) | [로프](https://www.acmicpc.net/problem/2217) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2758](https://www.acmicpc.net/problem/2758) | [로또](https://www.acmicpc.net/problem/2758) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
 
@@ -3937,7 +3946,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [18500](https://www.acmicpc.net/problem/18500) | [미네랄 2](https://www.acmicpc.net/problem/18500) |
 
 ## 2021/08/11 
