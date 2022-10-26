@@ -1,3 +1,12 @@
+## 2022/10/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1895](https://www.acmicpc.net/problem/1895) | [필터](https://www.acmicpc.net/problem/1895) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15664](https://www.acmicpc.net/problem/15664) | [N과 M (10)](https://www.acmicpc.net/problem/15664) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [19622](https://www.acmicpc.net/problem/19622) | [회의실 배정 3](https://www.acmicpc.net/problem/19622) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [22861](https://www.acmicpc.net/problem/22861) | [폴더 정리 (large)](https://www.acmicpc.net/problem/22861) |
+
 ## 2022/10/26 
 
 | 난이도 | 번호 | 문제 이름 |
