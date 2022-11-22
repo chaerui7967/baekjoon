@@ -1,3 +1,12 @@
+## 2022/11/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16434](https://www.acmicpc.net/problem/16434) | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20183](https://www.acmicpc.net/problem/20183) | [골목 대장 호석 - 효율성 2](https://www.acmicpc.net/problem/20183) |
+
 ## 2022/11/22 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1246,7 +1255,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1446](https://www.acmicpc.net/problem/1446) | [지름길](https://www.acmicpc.net/problem/1446) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
 
 ## 2022/07/06 
@@ -4783,7 +4792,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [7568](https://www.acmicpc.net/problem/7568) | [덩치](https://www.acmicpc.net/problem/7568) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6603](https://www.acmicpc.net/problem/6603) | [로또](https://www.acmicpc.net/problem/6603) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17822](https://www.acmicpc.net/problem/17822) | [원판 돌리기](https://www.acmicpc.net/problem/17822) |
 
 ## 2021/06/08 
