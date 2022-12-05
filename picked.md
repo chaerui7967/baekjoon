@@ -1,3 +1,12 @@
+## 2022/12/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16162](https://www.acmicpc.net/problem/16162) | [가희와 3단 고음](https://www.acmicpc.net/problem/16162) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14940](https://www.acmicpc.net/problem/14940) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15565](https://www.acmicpc.net/problem/15565) | [귀여운 라이언](https://www.acmicpc.net/problem/15565) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2696](https://www.acmicpc.net/problem/2696) | [중앙값 구하기](https://www.acmicpc.net/problem/2696) |
+
 ## 2022/12/05 
 
 | 난이도 | 번호 | 문제 이름 |
