@@ -1,3 +1,12 @@
+## 2022/12/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11123](https://www.acmicpc.net/problem/11123) | [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15918](https://www.acmicpc.net/problem/15918) | [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1949](https://www.acmicpc.net/problem/1949) | [우수 마을](https://www.acmicpc.net/problem/1949) |
+
 ## 2022/12/12 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -309,7 +318,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [14467](https://www.acmicpc.net/problem/14467) | [소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18352](https://www.acmicpc.net/problem/18352) | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22948](https://www.acmicpc.net/problem/22948) | [원 이동하기 2](https://www.acmicpc.net/problem/22948) |
 
@@ -1280,7 +1289,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
@@ -5267,7 +5276,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12761](https://www.acmicpc.net/problem/12761) | [돌다리](https://www.acmicpc.net/problem/12761) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4803](https://www.acmicpc.net/problem/4803) | [트리](https://www.acmicpc.net/problem/4803) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [7453](https://www.acmicpc.net/problem/7453) | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |
