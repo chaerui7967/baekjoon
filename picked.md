@@ -1,3 +1,12 @@
+## 2022/12/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14929](https://www.acmicpc.net/problem/14929) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15989](https://www.acmicpc.net/problem/15989) | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16948](https://www.acmicpc.net/problem/16948) | [데스 나이트](https://www.acmicpc.net/problem/16948) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |
+
 ## 2022/12/17 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2324,7 +2333,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17291](https://www.acmicpc.net/problem/17291) | [새끼치기](https://www.acmicpc.net/problem/17291) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17829](https://www.acmicpc.net/problem/17829) | [222-풀링](https://www.acmicpc.net/problem/17829) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](https://www.acmicpc.net/problem/17837) |
@@ -4025,7 +4034,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17140](https://www.acmicpc.net/problem/17140) | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1516](https://www.acmicpc.net/problem/1516) | [게임 개발](https://www.acmicpc.net/problem/1516) |
