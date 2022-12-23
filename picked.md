@@ -1,3 +1,12 @@
+## 2022/12/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15991](https://www.acmicpc.net/problem/15991) | [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2922](https://www.acmicpc.net/problem/2922) | [즐거운 단어](https://www.acmicpc.net/problem/2922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](https://www.acmicpc.net/problem/17779) |
+
 ## 2022/12/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1839,7 +1848,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11985](https://www.acmicpc.net/problem/11985) | [오렌지 출하](https://www.acmicpc.net/problem/11985) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11985](https://www.acmicpc.net/problem/11985) | [오렌지 출하](https://www.acmicpc.net/problem/11985) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
 
@@ -5278,7 +5287,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [9046](https://www.acmicpc.net/problem/9046) | [복호화](https://www.acmicpc.net/problem/9046) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17609](https://www.acmicpc.net/problem/17609) | [회문](https://www.acmicpc.net/problem/17609) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11985](https://www.acmicpc.net/problem/11985) | [오렌지 출하](https://www.acmicpc.net/problem/11985) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11985](https://www.acmicpc.net/problem/11985) | [오렌지 출하](https://www.acmicpc.net/problem/11985) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9944](https://www.acmicpc.net/problem/9944) | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) |
 
 ## 2021/05/15 
