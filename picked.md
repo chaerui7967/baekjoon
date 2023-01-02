@@ -1,3 +1,12 @@
+## 2023/01/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20116](https://www.acmicpc.net/problem/20116) | [상자의 균형](https://www.acmicpc.net/problem/20116) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15990](https://www.acmicpc.net/problem/15990) | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10427](https://www.acmicpc.net/problem/10427) | [빚](https://www.acmicpc.net/problem/10427) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
+
 ## 2023/01/02 
 
 | 난이도 | 번호 | 문제 이름 |
