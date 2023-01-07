@@ -1,3 +1,12 @@
+## 2023/01/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16194](https://www.acmicpc.net/problem/16194) | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16195](https://www.acmicpc.net/problem/16195) | [1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17090](https://www.acmicpc.net/problem/17090) | [미로 탈출하기](https://www.acmicpc.net/problem/17090) |
+
 ## 2023/01/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -473,7 +482,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15558](https://www.acmicpc.net/problem/15558) | [점프 게임](https://www.acmicpc.net/problem/15558) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17216](https://www.acmicpc.net/problem/17216) | [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
 
 ## 2022/11/15 
 
@@ -2912,7 +2921,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10597](https://www.acmicpc.net/problem/10597) | [순열장난](https://www.acmicpc.net/problem/10597) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
 
 ## 2022/02/17 
 
@@ -5153,7 +5162,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4836](https://www.acmicpc.net/problem/4836) | [춤](https://www.acmicpc.net/problem/4836) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [7562](https://www.acmicpc.net/problem/7562) | [나이트의 이동](https://www.acmicpc.net/problem/7562) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2224](https://www.acmicpc.net/problem/2224) | [명제 증명](https://www.acmicpc.net/problem/2224) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
 
 ## 2021/06/13 
 
