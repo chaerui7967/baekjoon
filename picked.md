@@ -1,3 +1,12 @@
+## 2023/01/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1764](https://www.acmicpc.net/problem/1764) | [듣보잡](https://www.acmicpc.net/problem/1764) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14945](https://www.acmicpc.net/problem/14945) | [불장난](https://www.acmicpc.net/problem/14945) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
+
 ## 2023/01/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -509,7 +518,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11728](https://www.acmicpc.net/problem/11728) | [배열 합치기](https://www.acmicpc.net/problem/11728) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20166](https://www.acmicpc.net/problem/20166) | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2022/11/19 
 
@@ -2489,7 +2498,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [22857](https://www.acmicpc.net/problem/22857) | [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15486](https://www.acmicpc.net/problem/15486) | [퇴사 2](https://www.acmicpc.net/problem/15486) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13424](https://www.acmicpc.net/problem/13424) | [비밀 모임](https://www.acmicpc.net/problem/13424) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2022/04/13 
 
@@ -4748,7 +4757,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1343](https://www.acmicpc.net/problem/1343) | [폴리오미노](https://www.acmicpc.net/problem/1343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2021/08/05 
 
