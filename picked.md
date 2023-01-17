@@ -1,3 +1,12 @@
+## 2023/01/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14501](https://www.acmicpc.net/problem/14501) | [퇴사](https://www.acmicpc.net/problem/14501) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17255](https://www.acmicpc.net/problem/17255) | [N으로 만들기](https://www.acmicpc.net/problem/17255) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
+
 ## 2023/01/17 
 
 | 난이도 | 번호 | 문제 이름 |
