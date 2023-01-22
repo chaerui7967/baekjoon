@@ -1,3 +1,12 @@
+## 2023/01/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2217](https://www.acmicpc.net/problem/2217) | [로프](https://www.acmicpc.net/problem/2217) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1697](https://www.acmicpc.net/problem/1697) | [숨바꼭질](https://www.acmicpc.net/problem/1697) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2616](https://www.acmicpc.net/problem/2616) | [소형기관차](https://www.acmicpc.net/problem/2616) |
+
 ## 2023/01/22 
 
 | 난이도 | 번호 | 문제 이름 |
