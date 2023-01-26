@@ -1,3 +1,12 @@
+## 2023/01/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2670](https://www.acmicpc.net/problem/2670) | [연속부분최대곱](https://www.acmicpc.net/problem/2670) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2406](https://www.acmicpc.net/problem/2406) | [안정적인 네트워크](https://www.acmicpc.net/problem/2406) |
+
 ## 2023/01/26 
 
 | 난이도 | 번호 | 문제 이름 |
