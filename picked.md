@@ -1,3 +1,12 @@
+## 2023/02/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4134](https://www.acmicpc.net/problem/4134) | [다음 소수](https://www.acmicpc.net/problem/4134) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13023](https://www.acmicpc.net/problem/13023) | [ABCDE](https://www.acmicpc.net/problem/13023) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18866](https://www.acmicpc.net/problem/18866) | [젊은 날의 생이여](https://www.acmicpc.net/problem/18866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2151](https://www.acmicpc.net/problem/2151) | [거울 설치](https://www.acmicpc.net/problem/2151) |
+
 ## 2023/01/31 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -344,7 +353,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15991](https://www.acmicpc.net/problem/15991) | [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2922](https://www.acmicpc.net/problem/2922) | [즐거운 단어](https://www.acmicpc.net/problem/2922) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](https://www.acmicpc.net/problem/17779) |
@@ -2531,7 +2540,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3343](https://www.acmicpc.net/problem/3343) | [장미](https://www.acmicpc.net/problem/3343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [21944](https://www.acmicpc.net/problem/21944) | [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) |
@@ -4421,7 +4430,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16195](https://www.acmicpc.net/problem/16195) | [1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19951](https://www.acmicpc.net/problem/19951) | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1248](https://www.acmicpc.net/problem/1248) | [Guess](https://www.acmicpc.net/problem/1248) |
