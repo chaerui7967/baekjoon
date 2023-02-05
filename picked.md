@@ -1,3 +1,12 @@
+## 2023/02/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5766](https://www.acmicpc.net/problem/5766) | [할아버지는 유명해!](https://www.acmicpc.net/problem/5766) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1992](https://www.acmicpc.net/problem/1992) | [쿼드트리](https://www.acmicpc.net/problem/1992) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22942](https://www.acmicpc.net/problem/22942) | [데이터 체커](https://www.acmicpc.net/problem/22942) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1958](https://www.acmicpc.net/problem/1958) | [LCS 3](https://www.acmicpc.net/problem/1958) |
+
 ## 2023/02/05 
 
 | 난이도 | 번호 | 문제 이름 |
