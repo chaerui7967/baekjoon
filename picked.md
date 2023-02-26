@@ -1,3 +1,12 @@
+## 2023/02/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1449](https://www.acmicpc.net/problem/1449) | [수리공 항승](https://www.acmicpc.net/problem/1449) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17073](https://www.acmicpc.net/problem/17073) | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2411](https://www.acmicpc.net/problem/2411) | [아이템 먹기](https://www.acmicpc.net/problem/2411) |
+
 ## 2023/02/26 
 
 | 난이도 | 번호 | 문제 이름 |
