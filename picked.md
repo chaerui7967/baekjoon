@@ -1,3 +1,12 @@
+## 2023/03/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1972](https://www.acmicpc.net/problem/1972) | [놀라운 문자열](https://www.acmicpc.net/problem/1972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17484](https://www.acmicpc.net/problem/17484) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2253](https://www.acmicpc.net/problem/2253) | [점프](https://www.acmicpc.net/problem/2253) |
+
 ## 2023/02/28 
 
 | 난이도 | 번호 | 문제 이름 |
