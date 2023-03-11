@@ -1,3 +1,12 @@
+## 2023/03/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3613](https://www.acmicpc.net/problem/3613) | [Java vs C++](https://www.acmicpc.net/problem/3613) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14891](https://www.acmicpc.net/problem/14891) | [톱니바퀴](https://www.acmicpc.net/problem/14891) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17085](https://www.acmicpc.net/problem/17085) | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+
 ## 2023/03/11 
 
 | 난이도 | 번호 | 문제 이름 |
