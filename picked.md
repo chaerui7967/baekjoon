@@ -1,3 +1,12 @@
+## 2023/04/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [9046](https://www.acmicpc.net/problem/9046) | [복호화](https://www.acmicpc.net/problem/9046) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13707](https://www.acmicpc.net/problem/13707) | [합분해 2](https://www.acmicpc.net/problem/13707) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20040](https://www.acmicpc.net/problem/20040) | [사이클 게임](https://www.acmicpc.net/problem/20040) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [7453](https://www.acmicpc.net/problem/7453) | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |
+
 ## 2023/04/08 
 
 | 난이도 | 번호 | 문제 이름 |
