@@ -1,3 +1,12 @@
+## 2023/04/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20944](https://www.acmicpc.net/problem/20944) | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22856](https://www.acmicpc.net/problem/22856) | [트리 순회](https://www.acmicpc.net/problem/22856) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16235](https://www.acmicpc.net/problem/16235) | [나무 재테크](https://www.acmicpc.net/problem/16235) |
+
 ## 2023/04/18 
 
 | 난이도 | 번호 | 문제 이름 |
