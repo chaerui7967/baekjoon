@@ -1,3 +1,12 @@
+## 2023/04/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2491](https://www.acmicpc.net/problem/2491) | [수열](https://www.acmicpc.net/problem/2491) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11509](https://www.acmicpc.net/problem/11509) | [풍선 맞추기](https://www.acmicpc.net/problem/11509) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21924](https://www.acmicpc.net/problem/21924) | [도시 건설](https://www.acmicpc.net/problem/21924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1493](https://www.acmicpc.net/problem/1493) | [박스 채우기](https://www.acmicpc.net/problem/1493) |
+
 ## 2023/04/26 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -902,7 +911,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11509](https://www.acmicpc.net/problem/11509) | [풍선 맞추기](https://www.acmicpc.net/problem/11509) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
@@ -2972,7 +2981,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2667](https://www.acmicpc.net/problem/2667) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18116](https://www.acmicpc.net/problem/18116) | [로봇 조립](https://www.acmicpc.net/problem/18116) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1941](https://www.acmicpc.net/problem/1941) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |
@@ -5069,7 +5078,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1421](https://www.acmicpc.net/problem/1421) | [나무꾼 이다솜](https://www.acmicpc.net/problem/1421) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2448](https://www.acmicpc.net/problem/2448) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |
