@@ -1,3 +1,12 @@
+## 2023/04/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [18312](https://www.acmicpc.net/problem/18312) | [시각](https://www.acmicpc.net/problem/18312) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [7562](https://www.acmicpc.net/problem/7562) | [나이트의 이동](https://www.acmicpc.net/problem/7562) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19535](https://www.acmicpc.net/problem/19535) | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) |
+
 ## 2023/04/27 
 
 | 난이도 | 번호 | 문제 이름 |
