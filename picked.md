@@ -1,3 +1,12 @@
+## 2023/05/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1212](https://www.acmicpc.net/problem/1212) | [8진수 2진수](https://www.acmicpc.net/problem/1212) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17485](https://www.acmicpc.net/problem/17485) | [진우의 달 여행 (Large)](https://www.acmicpc.net/problem/17485) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6137](https://www.acmicpc.net/problem/6137) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9944](https://www.acmicpc.net/problem/9944) | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) |
+
 ## 2023/05/05 
 
 | 난이도 | 번호 | 문제 이름 |
