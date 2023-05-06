@@ -1,3 +1,12 @@
+## 2023/05/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1325](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11909](https://www.acmicpc.net/problem/11909) | [배열 탈출](https://www.acmicpc.net/problem/11909) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+
 ## 2023/05/06 
 
 | 난이도 | 번호 | 문제 이름 |
