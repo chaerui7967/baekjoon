@@ -1,3 +1,12 @@
+## 2023/05/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11170](https://www.acmicpc.net/problem/11170) | [0의 개수](https://www.acmicpc.net/problem/11170) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21938](https://www.acmicpc.net/problem/21938) | [영상처리](https://www.acmicpc.net/problem/21938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12978](https://www.acmicpc.net/problem/12978) | [스크루지 민호 2](https://www.acmicpc.net/problem/12978) |
+
 ## 2023/05/18 
 
 | 난이도 | 번호 | 문제 이름 |
