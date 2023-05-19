@@ -1,3 +1,12 @@
+## 2023/05/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7569](https://www.acmicpc.net/problem/7569) | [토마토](https://www.acmicpc.net/problem/7569) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4803](https://www.acmicpc.net/problem/4803) | [트리](https://www.acmicpc.net/problem/4803) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20543](https://www.acmicpc.net/problem/20543) | [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
+
 ## 2023/05/19 
 
 | 난이도 | 번호 | 문제 이름 |
