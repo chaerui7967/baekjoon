@@ -1,3 +1,12 @@
+## 2023/06/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18512](https://www.acmicpc.net/problem/18512) | [점프 점프](https://www.acmicpc.net/problem/18512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20438](https://www.acmicpc.net/problem/20438) | [출석체크](https://www.acmicpc.net/problem/20438) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17490](https://www.acmicpc.net/problem/17490) | [일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) |
+
 ## 2023/06/01 
 
 | 난이도 | 번호 | 문제 이름 |
