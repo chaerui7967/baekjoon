@@ -1,3 +1,12 @@
+## 2023/06/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5557](https://www.acmicpc.net/problem/5557) | [1학년](https://www.acmicpc.net/problem/5557) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19641](https://www.acmicpc.net/problem/19641) | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18808](https://www.acmicpc.net/problem/18808) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
+
 ## 2023/06/13 
 
 | 난이도 | 번호 | 문제 이름 |
